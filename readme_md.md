@@ -16,6 +16,7 @@
 
 ## Блок-схема  
 <img width="680" height="578" alt="image" src="https://github.com/user-attachments/assets/396a9699-816d-4fcf-be84-68e4666e598a" />  
+
 ## Реализация программы  
 
 ```c  
